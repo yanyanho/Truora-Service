@@ -72,7 +72,6 @@ dependencies {
 //    implementation 'org.fisco-bcos:solcJ:0.4.25.1'
 
     implementation "mysql:mysql-connector-java:8.0.22"
-
     implementation "com.squareup.okhttp3:okhttp:4.9.0"
 
     implementation 'io.springfox:springfox-swagger2:2.8.0'
